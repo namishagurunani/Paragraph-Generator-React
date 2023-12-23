@@ -1,3 +1,5 @@
+## Hosted Link - [Demo](https://education-planner-react-2g3y.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
